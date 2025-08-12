@@ -175,9 +175,50 @@ background-color: aliceblue;
 .scnd-landingPage-item1-img3{
     height: 9rem;
     width: 13rem;
-    border-radius:2rem;
+    border-radius:2rem;  
     
+}
+.photo-cotainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top:30rem;
     
+   
+
+}
+.photo-list-item1{
+
+height:16rem;
+width: 14rem;
+ margin-left:2rem;
+}
+.photo-list-item2{
+
+height:16rem;
+width: 14rem;
+ margin-left:2rem;
+
+}
+.photo-list-item3{
+height:16rem;
+width: 14rem;
+ margin-left:34rem;
+  margin-top: -29rem;
+}
+.photo-list-item4
+{
+
+height:16rem;
+width: 14rem;
+ margin-left:50rem;
+  margin-top: -16rem;
+}
+.photo-list-item5{
+
+height:16rem;
+width: 14rem;
+ margin-left:66rem;
+  margin-top: -16rem;
 }
 .footer-cotainer{    
     height: 15vh;
